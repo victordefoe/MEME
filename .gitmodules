@@ -1,0 +1,3 @@
+[submodule "19_nCoV_data"]
+	path = 19_nCoV_data
+	url = https://github.com/globalcitizen/2019-wuhan-coronavirus-data
